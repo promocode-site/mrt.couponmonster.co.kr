@@ -24,4 +24,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://mrt.couponmonster.co.kr/blog/</loc>
+    <lastmod>2026-09-26</lastmod>
+  </url>
+  <url>
+    <loc>https://mrt.couponmonster.co.kr/blog/myrealtrip-coupon-register-apply-guide/</loc>
+    <lastmod>2026-09-26</lastmod>
+  </url>
 </urlset>
