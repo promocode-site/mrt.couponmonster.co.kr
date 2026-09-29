@@ -3,8 +3,15 @@
   "siteName": "마이리얼트립 할인쿠폰",
   "baseUrl": "https://mrt.couponmonster.co.kr",
   "postUrlPattern": "/blog/{slug}/",
-  "updated": "2026-09-26",
+  "updated": "2026-09-29",
   "posts": [
+    {
+      "title": "마이리얼트립 할인쿠폰과 토스페이·카드 결제 할인 함께 받는 법",
+      "slug": "myrealtrip-coupon-tosspay-card-discount-together",
+      "date": "2026-09-29",
+      "description": "마이리얼트립 할인쿠폰과 토스페이·카드 결제 할인을 예약 단계별로 함께 확인하고 적용하는 방법을 정리했습니다.",
+      "image": ""
+    },
     {
       "title": "마이리얼트립 할인쿠폰 등록부터 적용까지 한 번에 정리",
       "slug": "myrealtrip-coupon-register-apply-guide",
